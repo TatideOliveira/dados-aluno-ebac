@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Tatiana
+-Profissão: Analista de Testes de Qualidade - Manual/Fron-end
+-Cidade: Rio de Janeiro
+-O que faz nas horas vaga: Gosto de ler, passar um tempo com meus pets e ver vídeos no Youtube
+-Feedback sobre o curso Qualidade de Software: É excelente, o Prof. Fábio tem uma ótima didática.
+-Feedback sobre a plataforma de estudo da EBAC: Excelente.
 
 Obrigado!!!
 
